@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8O16/l0NJFQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dyego\\OneDrive\\Documentos\\poc-cdci\\cdci\\cdci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dyego\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\dyego\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
